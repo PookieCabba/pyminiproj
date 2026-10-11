@@ -1,0 +1,4 @@
+id,timestamp,location_name,region_type,max_temp,normal_temp,departure,humidity,severity,source
+1,2026-10-11 10:17:55,AWS_Node_4,Plains,29.33,26.08,3.25,33.11,Warm Night / Elevated Heat,IoT_Socket
+2,2026-10-11 10:17:56,Mumbai,Coastal,36.8,33.0,3.8,28.0,Heatwave,Open-Meteo API
+3,2026-10-11 10:17:59,AWS_Node_8,Coastal,40.08,30.74,9.34,76.95,Severe Heatwave,IoT_Socket

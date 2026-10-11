@@ -1,0 +1,926 @@
+====================================================
+      CLIMATEGUARD: OFFICIAL HEATWAVE ADVISORY
+====================================================
+Generated On: 2026-10-11 15:55:18
+Total Alerts: 92
+----------------------------------------------------
+
+[2026-10-11 10:25:07] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:25:07] ALERT IN AWS_Node_3 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 49.67 C
+Departure         : +18.68 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:25:03] ALERT IN AWS_Node_7 (Hilly Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 32.72 C
+Departure         : +0.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:24:59] ALERT IN AWS_Node_9 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 35.13 C
+Departure         : +7.29 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:24:55] ALERT IN AWS_Node_7 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 46.78 C
+Departure         : +13.36 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:24:51] ALERT IN AWS_Node_9 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 48.66 C
+Departure         : +18.21 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:24:47] ALERT IN AWS_Node_2 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 48.2 C
+Departure         : +20.71 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:24:43] ALERT IN AWS_Node_8 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 39.62 C
+Departure         : +4.76 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:24:39] ALERT IN AWS_Node_6 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 38.38 C
+Departure         : +4.37 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:24:35] ALERT IN AWS_Node_5 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 47.3 C
+Departure         : +19.7 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:24:34] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:24:31] ALERT IN AWS_Node_9 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 48.71 C
+Departure         : +20.58 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:24:23] ALERT IN AWS_Node_2 (Hilly Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 32.34 C
+Departure         : +1.67 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:24:19] ALERT IN AWS_Node_1 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 36.53 C
+Departure         : +11.39 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:24:15] ALERT IN AWS_Node_2 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 45.95 C
+Departure         : +13.69 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:24:11] ALERT IN AWS_Node_6 (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.41 C
+Departure         : +4.93 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:24:01] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:23:59] ALERT IN AWS_Node_4 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 48.23 C
+Departure         : +13.67 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:23:55] ALERT IN AWS_Node_10 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 49.87 C
+Departure         : +23.89 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:23:51] ALERT IN AWS_Node_5 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 43.88 C
+Departure         : +9.25 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:23:39] ALERT IN AWS_Node_10 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 47.55 C
+Departure         : +14.05 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:23:35] ALERT IN AWS_Node_10 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 38.45 C
+Departure         : +7.84 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:23:28] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:23:27] ALERT IN AWS_Node_10 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 39.57 C
+Departure         : +4.96 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:23:19] ALERT IN AWS_Node_5 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 48.92 C
+Departure         : +15.53 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:23:15] ALERT IN AWS_Node_5 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 42.37 C
+Departure         : +13.66 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:23:11] ALERT IN AWS_Node_1 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 43.95 C
+Departure         : +12.19 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:23:07] ALERT IN AWS_Node_4 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 35.37 C
+Departure         : +7.15 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:59] ALERT IN AWS_Node_5 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 43.0 C
+Departure         : +16.74 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:55] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:22:55] ALERT IN AWS_Node_10 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 34.55 C
+Departure         : +7.22 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:51] ALERT IN AWS_Node_5 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 40.79 C
+Departure         : +14.53 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:47] ALERT IN AWS_Node_3 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 47.86 C
+Departure         : +18.72 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:39] ALERT IN AWS_Node_9 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 37.13 C
+Departure         : +9.11 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:35] ALERT IN AWS_Node_1 (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 33.58 C
+Departure         : +6.21 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:22:27] ALERT IN AWS_Node_2 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 39.7 C
+Departure         : +10.49 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:21] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:22:19] ALERT IN AWS_Node_6 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 41.72 C
+Departure         : +11.94 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:15] ALERT IN AWS_Node_9 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 42.19 C
+Departure         : +8.64 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:11] ALERT IN AWS_Node_1 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 33.95 C
+Departure         : +7.93 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:07] ALERT IN AWS_Node_6 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 47.26 C
+Departure         : +19.74 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:22:03] ALERT IN AWS_Node_1 (Hilly Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 33.78 C
+Departure         : +-0.69 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:21:59] ALERT IN AWS_Node_9 (Hilly Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 33.82 C
+Departure         : +4.08 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:21:48] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:21:47] ALERT IN AWS_Node_10 (Hilly Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 30.28 C
+Departure         : +4.37 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:21:43] ALERT IN AWS_Node_4 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 38.62 C
+Departure         : +12.89 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:21:39] ALERT IN AWS_Node_5 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 36.04 C
+Departure         : +1.95 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:21:35] ALERT IN AWS_Node_1 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 49.8 C
+Departure         : +20.22 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:21:31] ALERT IN AWS_Node_1 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 46.31 C
+Departure         : +12.23 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:21:27] ALERT IN AWS_Node_2 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 35.41 C
+Departure         : +4.66 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:21:15] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:21:11] ALERT IN AWS_Node_8 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 41.86 C
+Departure         : +15.09 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:21:07] ALERT IN AWS_Node_7 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 38.94 C
+Departure         : +8.0 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:20:55] ALERT IN AWS_Node_10 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 37.84 C
+Departure         : +4.47 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:20:51] ALERT IN AWS_Node_4 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 38.39 C
+Departure         : +4.44 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:20:47] ALERT IN AWS_Node_3 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 33.33 C
+Departure         : +6.72 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:20:42] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:20:35] ALERT IN AWS_Node_1 (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 33.82 C
+Departure         : +6.35 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:20:31] ALERT IN AWS_Node_3 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 43.52 C
+Departure         : +13.64 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:20:27] ALERT IN AWS_Node_4 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 43.93 C
+Departure         : +13.85 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:20:23] ALERT IN AWS_Node_5 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 46.45 C
+Departure         : +18.91 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:20:19] ALERT IN AWS_Node_4 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 40.17 C
+Departure         : +9.67 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:20:15] ALERT IN AWS_Node_8 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 44.49 C
+Departure         : +9.79 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:20:11] ALERT IN AWS_Node_6 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 46.01 C
+Departure         : +11.81 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:20:09] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:19:51] ALERT IN AWS_Node_3 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 45.17 C
+Departure         : +17.52 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:19:47] ALERT IN AWS_Node_2 (Hilly Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 32.04 C
+Departure         : +-2.51 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:19:39] ALERT IN AWS_Node_10 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 42.5 C
+Departure         : +11.89 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:19:35] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:19:31] ALERT IN AWS_Node_2 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 45.51 C
+Departure         : +17.63 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:19:27] ALERT IN AWS_Node_1 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 44.52 C
+Departure         : +15.49 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:19:23] ALERT IN AWS_Node_9 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 44.67 C
+Departure         : +15.22 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:19:19] ALERT IN AWS_Node_9 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 41.09 C
+Departure         : +9.9 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:19:15] ALERT IN AWS_Node_1 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 42.87 C
+Departure         : +11.42 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:19:11] ALERT IN AWS_Node_6 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 40.3 C
+Departure         : +13.13 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:19:07] ALERT IN AWS_Node_9 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 42.57 C
+Departure         : +13.08 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:19:03] ALERT IN AWS_Node_3 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 38.12 C
+Departure         : +11.64 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:19:02] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:18:59] ALERT IN AWS_Node_7 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 43.36 C
+Departure         : +15.69 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:18:55] ALERT IN AWS_Node_10 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 41.47 C
+Departure         : +11.94 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:18:51] ALERT IN AWS_Node_4 (Hilly Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 33.05 C
+Departure         : +0.98 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:18:43] ALERT IN AWS_Node_9 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 41.31 C
+Departure         : +13.58 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:18:35] ALERT IN AWS_Node_10 (Hilly Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 31.74 C
+Departure         : +3.42 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:18:31] ALERT IN AWS_Node_6 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 43.21 C
+Departure         : +16.43 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:18:29] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
+
+[2026-10-11 10:18:27] ALERT IN AWS_Node_9 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 37.83 C
+Departure         : +8.05 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:18:19] ALERT IN AWS_Node_2 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 47.52 C
+Departure         : +17.85 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:18:15] ALERT IN AWS_Node_10 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 39.41 C
+Departure         : +4.61 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:18:11] ALERT IN AWS_Node_3 (Plains Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 49.5 C
+Departure         : +24.17 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:18:03] ALERT IN AWS_Node_2 (Hilly Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 37.5 C
+Departure         : +7.95 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:17:59] ALERT IN AWS_Node_8 (Coastal Region)
+----------------------------------------------------
+Severity Category : Severe Heatwave
+Maximum Temp      : 40.08 C
+Departure         : +9.34 C from Normal
+
+>> RECOMMENDED ACTION:
+URGENT: Issue immediate public warnings. Prepare medical facilities for heat-stroke cases. Halt outdoor labor.
+----------------------------------------------------
+
+[2026-10-11 10:17:56] ALERT IN Mumbai (Coastal Region)
+----------------------------------------------------
+Severity Category : Heatwave
+Maximum Temp      : 36.8 C
+Departure         : +3.8 C from Normal
+
+>> RECOMMENDED ACTION:
+WARNING: Issue public advisories. Ensure hydration stations are active. Advise vulnerable populations to stay indoors.
+----------------------------------------------------
