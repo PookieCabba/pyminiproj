@@ -145,4 +145,34 @@ else:
             with st.form("prediction_form"):
                 input_col1, input_col2, input_col3 = st.columns(3)
                 region_input = input_col1.selectbox("IMD Region Type", ["Plains", "Coastal", "Hilly"])
-                normal_temp_input = input_col2.number_input("Baseline Normal Temp (°C)", min_value=15.0, max_value=4
+                normal_temp_input = input_col2.number_input("Baseline Normal Temp (°C)", min_value=15.0, max_value=45.0, value=33.0, step=0.5)
+                humidity_input = input_col3.number_input("Relative Humidity (%)", min_value=10.0, max_value=100.0, value=65.0, step=1.0)
+                
+                submit_prediction = st.form_submit_button("Generate Forecast", type="primary")
+                
+                if submit_prediction:
+                    input_data = pd.DataFrame([[normal_temp_input, humidity_input]], columns=['normal_temp', 'humidity'])
+                    pred_max = rf_model.predict(input_data)[0]
+                    
+                    predicted_severity, predicted_departure = classify_heatwave(
+                        max_temp=pred_max, 
+                        normal_temp=normal_temp_input, 
+                        region_type=region_input
+                    )
+                    
+                    st.divider()
+                    st.metric("Predicted Maximum Temperature", f"{pred_max:.2f} °C", f"+{predicted_departure:.2f} °C departure")
+                    
+                    if predicted_severity in ["Severe Heatwave", "Heatwave"]:
+                        st.error(f"🚨 ALERT TRIGGERED: Expected {predicted_severity} conditions for this region based on predicted parameters.")
+                    elif predicted_severity == "Warm Night / Elevated Heat":
+                        st.warning("⚠️ WARNING: Elevated heat levels detected, approaching heatwave conditions.")
+                    else:
+                        st.success("✅ Forecast normal. No extreme heat conditions expected.")
+        else:
+            st.error("Model binary not found. Please upload `heatwave_rf_model.pkl` to the `models` folder on GitHub.")
+
+# 7. Auto-Refresh Logic
+if auto_refresh:
+    time.sleep(refresh_rate)
+    st.rerun()
