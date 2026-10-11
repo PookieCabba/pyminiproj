@@ -26,14 +26,14 @@ st.set_page_config(
 
 # 2. Data Loader Function 
 def fetch_live_data():
-    if not os.path.exists(DB_PATH):
-        return pd.DataFrame()
-    
     conn = sqlite3.connect(DB_PATH)
-    query = "SELECT timestamp, location_name, region_type, max_temp, departure, severity FROM weather_records ORDER BY timestamp DESC LIMIT 100"
-    df = pd.read_sql_query(query, conn)
-    conn.close()
-    return df
+    
+    # 1. Fetch one live API reading directly from the web dashboard
+    cities = [
+        {"name": "Mumbai", "lat": 19.0760, "lon": 72.8777, "region": "Coastal", "normal": 33.0},
+        {"name": "Delhi", "lat": 28.7041, "lon": 77.1025, "region": "Plains", "normal": 38.0}
+    ]
+    city = random.choice(cities)
 
 # 3. Sidebar Controls
 st.sidebar.markdown("## 🌩️ Climate Intelligence")
